@@ -1,0 +1,13 @@
+C:\Users\hntdahta\source\repos\ReadXML\bin\Debug\netcoreapp3.1\ReadXML.exe
+C:\Users\hntdahta\source\repos\ReadXML\bin\Debug\netcoreapp3.1\ReadXML.deps.json
+C:\Users\hntdahta\source\repos\ReadXML\bin\Debug\netcoreapp3.1\ReadXML.runtimeconfig.json
+C:\Users\hntdahta\source\repos\ReadXML\bin\Debug\netcoreapp3.1\ReadXML.runtimeconfig.dev.json
+C:\Users\hntdahta\source\repos\ReadXML\bin\Debug\netcoreapp3.1\ReadXML.dll
+C:\Users\hntdahta\source\repos\ReadXML\bin\Debug\netcoreapp3.1\ReadXML.pdb
+C:\Users\hntdahta\source\repos\ReadXML\obj\Debug\netcoreapp3.1\ReadXML.csprojAssemblyReference.cache
+C:\Users\hntdahta\source\repos\ReadXML\obj\Debug\netcoreapp3.1\ReadXML.AssemblyInfoInputs.cache
+C:\Users\hntdahta\source\repos\ReadXML\obj\Debug\netcoreapp3.1\ReadXML.AssemblyInfo.cs
+C:\Users\hntdahta\source\repos\ReadXML\obj\Debug\netcoreapp3.1\ReadXML.csproj.CoreCompileInputs.cache
+C:\Users\hntdahta\source\repos\ReadXML\obj\Debug\netcoreapp3.1\ReadXML.dll
+C:\Users\hntdahta\source\repos\ReadXML\obj\Debug\netcoreapp3.1\ReadXML.pdb
+C:\Users\hntdahta\source\repos\ReadXML\obj\Debug\netcoreapp3.1\ReadXML.genruntimeconfig.cache
